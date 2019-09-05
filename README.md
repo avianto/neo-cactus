@@ -1,4 +1,8 @@
-# Cactus
+# Neo-Cactus
+
+## Note
+
+This is a fork of [Cactus](https://probberechts.github.io/hexo-theme-cactus/) intended for personal use. Please refer to the original theme for latest update and change.
 
 A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal website.
 
