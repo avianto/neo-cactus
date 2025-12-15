@@ -29,7 +29,7 @@ gulp.task('lib:download_mesloFont', function () {
 })
 
 gulp.task('lib:install_mesloFont', function () {
-  return gulp.src('/tmp/Meslo%20LG%20v1.2.1.zip')
+  return gulp.src('/tmp/Meslo%20LG%20v1.2.1.zip?raw=true')
     .pipe(decompress({
       filter: file => path.extname(file.path) == '.ttf',
       strip: 1

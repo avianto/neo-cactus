@@ -24,24 +24,24 @@
   },
   "homepage": "https://github.com/probberechts/cactus-dark#readme",
   "type": "module",
-  "devDependencies": {
-    "del": "*",
-    "gulp": "^4.0.0",
-    "gulp-decompress": "*",
-    "gulp-download-stream": "*",
-    "gulp-jshint": "*",
-    "gulp-stylint": "*",
-    "js-yaml": "*",
-    "jshint": "^2.9.6",
-    "jshint-stylish": "*",
-    "stylelint-formatter-pretty": "^3.1.0",
-    "stylint": "*",
-    "stylus-supremacy": "^2.12.2"
+"devDependencies": {
+    "del": "^8.0.1",
+    "gulp": "^5.0.1",
+    "gulp-decompress": "^3.0.0",
+    "gulp-download-stream": "^0.0.20",
+    "gulp-jshint": "^2.1.0",
+    "gulp-stylint": "^4.0.2",
+    "js-yaml": "^4.1.1",
+    "jshint": "^2.13.6",
+    "jshint-stylish": "^2.2.1",
+    "stylint": "^2.0.0",
+    "stylus-supremacy": "^5.0.0",
+    "stylelint-formatter-pretty": "^4.0.1"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "*",
+    "@fortawesome/fontawesome-free": "^7.1.0",
     "clipboard": "^2.0.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.7.1",
     "justifiedGallery": "^3.6.5",
     "vazir-font": "*"
   }
